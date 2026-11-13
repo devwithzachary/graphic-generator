@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*.svg
+.DS_Store
